@@ -29,9 +29,7 @@ Check out [docs.tigerbeetle.com](https://docs.tigerbeetle.com/).
 Here are a few key pages you might be interested in:
 
 - Deployment
-  - [Hardware](https://docs.tigerbeetle.com/deployment/hardware)
-- Usage
-  - [Integration](https://docs.tigerbeetle.com/usage/integration)
+  - [Hardware](https://docs.tigerbeetle.com/deploy/hardware)
 - Reference
   - [Accounts](https://docs.tigerbeetle.com/reference/accounts)
   - [Transfers](https://docs.tigerbeetle.com/reference/transfers)
@@ -248,9 +246,9 @@ accounted for!
 
 For further reading:
 
-* [Running a 3-node cluster locally with docker-compose](https://docs.tigerbeetle.com/deployment/with-docker-compose)
-* [Run a single-node cluster with Docker](https://docs.tigerbeetle.com/deployment/with-docker)
-* [Run a single-node cluster from source](https://docs.tigerbeetle.com/deployment/single-binary)
+* [Running a 3-node cluster locally with docker-compose](https://docs.tigerbeetle.com/quick-start/with-docker-compose)
+* [Run a single-node cluster with Docker](https://docs.tigerbeetle.com/quick-start/with-docker)
+* [Run a single-node cluster with a single binary](https://docs.tigerbeetle.com/quick-start/single-binary)
 
 ## Clients
 
