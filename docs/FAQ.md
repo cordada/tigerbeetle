@@ -141,6 +141,5 @@ the plane while we're flying it. We are working with design partners
 and TigerBeetle is being used in corporate "lab" settings. Likewise,
 we encourage you to [try out
 TigerBeetle](https://github.com/tigerbeetledb/tigerbeetle#quickstart),
-[follow our
-development](https://github.com/tigerbeetledb/tigerbeetle#short-term-roadmap),
+[follow our development](https://github.com/tigerbeetledb/tigerbeetle#roadmap),
 and [give feedback](https://join.slack.com/t/tigerbeetle/shared_invite/zt-1gf3qnvkz-GwkosudMCM3KGbGiSu87RQ)!
